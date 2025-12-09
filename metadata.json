@@ -1,0 +1,7 @@
+{
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "name": "MotoRent ERP Enterprise",
+  "description": "An enterprise-grade ERP system for motorcycle rental businesses featuring fleet management, financial accounting, and AI-driven operational analytics."
+}
